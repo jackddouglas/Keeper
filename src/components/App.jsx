@@ -30,7 +30,6 @@ function App() {
           />
         );
       })}
-      {/* <Note key={1} title="Note title" content="Note content" /> */}
       <Footer />
     </div>
   );
